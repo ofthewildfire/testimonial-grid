@@ -42,8 +42,8 @@ body {
 .grid-card:nth-of-type(1) {
   background-color: var(--ModerateViolet);
   background-image: url(./images/bg-pattern-quotation.svg);
-  background-position-x: right 5%;
-  background-position-y: top 5%;
+  background-position-x: 85%;
+  background-position-y: 10%;
   background-repeat: no-repeat;
   background-size: 10rem;
   order: 1;
