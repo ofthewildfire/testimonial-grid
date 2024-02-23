@@ -37,6 +37,7 @@ body {
   border-radius: 10px;
   padding: 2em;
   color: var(--White);
+  box-shadow: 0px 0px 5px var(--LightGrayishBlue);
 }
 
 .grid-card:nth-of-type(1) {
